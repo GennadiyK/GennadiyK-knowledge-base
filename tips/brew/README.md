@@ -1,6 +1,7 @@
 
 <details>
   <summary>Remove node</summary>
+  
   ```
     brew uninstall node; 
     # or `brew uninstall --force node` which removes all versions
@@ -12,6 +13,7 @@
 </details>
 <details>
   <summary>Install node</summary>
+
   ```
     brew uninstall node; 
     # or `brew uninstall --force node` which removes all versions
