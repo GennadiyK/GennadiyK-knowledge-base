@@ -26,12 +26,18 @@
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
 var merge = function(nums1, m, nums2, n) {
+    // check if m && n return are 0 return nums []
     if(m === 0 && n === 0) {
         nums1 = []
     }
+    //filter nums1 and remove 0
     nums1 = nums1.filter(i => i > 0)
+    //filter nums2 and return 0
     nums2 = nums2.filter(i => i > 0)
 console.log(nums2)
+    // merge nums1 and nums2
+    // sort it
+    // set the sorted array to the num1
     nums1 = [...nums1, ...nums2].sort()
     console.log(nums1)
 };
