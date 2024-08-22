@@ -1,1 +1,1 @@
-# GennadiyK-knowledge-base
+Self education repo
