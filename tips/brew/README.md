@@ -10,6 +10,8 @@
     rm -rf ~/.npm;
   ``` 
   [Reference](https://stackoverflow.com/questions/11177954/how-do-i-completely-uninstall-node-js-and-reinstall-from-beginning-mac-os-x)
+
+  :white_check_mark: Or remove manually using path that node istalled is.
 </details>
 <details>
   <summary>Install node</summary>

@@ -39,3 +39,14 @@ Note that because m = 0, there are no elements in nums1. The 0 is only there to 
 - 0 <= m, n <= 200
 - 1 <= m + n <= 200
 - -109 <= nums1[i], nums2[j] <= 109
+
+<details>
+  <summary><i>Solution, algorithm</i></summary>
+  <p>
+   - Define loop
+   - Define i and this i has to be equal m - the lenght of nums1
+   - Define j, and it has to be equal 0, this will be used to iterate through the second nums2 aray
+   - then define th statement - and if j less then n -  do iteration, and increment i and j
+   - return sorted nums1 from the merge function
+  </p>
+</details>
