@@ -1,0 +1,27 @@
+{
+  "name": "merge-sorted-array",
+  "version": "1.0.0",
+  "description": "Merge sorted array",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GennadiyK/knowledge-base.git"
+  },
+  "keywords": [
+    "Problem",
+    "solving"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GennadiyK/knowledge-base/issues"
+  },
+  "homepage": "https://github.com/GennadiyK/knowledge-base#readme",
+  "devDependencies": {
+    "assert": "^2.1.0",
+    "mocha": "^10.7.3"
+  }
+}
